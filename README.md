@@ -1,21 +1,14 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+FiveM+resource+developer;%E2%80%9CTrue+progress+is+only+achieved+when+the+benefits+of+a+new+technology+become+available+to+all.%E2%80%9D;Always+striving+for+progress" alt="Typing SVG" /></a>
 </p>
-
-<p align="center">
-    <a href="https://discord.gg/wd5PszPA2p" alt="Discord" title="Creator and Dev"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <br/>
     <br/>
 </p>
 <hr>
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
