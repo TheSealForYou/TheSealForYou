@@ -31,12 +31,12 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSealForYou&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffb700&text_color=ffffff&icon_color=ffb700&bg_color=20232a&langs_count=8&layout=compact&border_color=ffb700&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSealForYou&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffb700&text_color=ffffff&icon_color=ffb700&bg_color=ffb700&langs_count=8&layout=compact&border_color=ffb700&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSealForYou&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSealForYou&theme=react-dark&bg_color=ffb700&hide_border=true" width="100%"/>
 </p>
     <br/>
 
