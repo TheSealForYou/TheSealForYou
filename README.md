@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-    <br/>
-    <br/>
 </p>
 <hr>
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
